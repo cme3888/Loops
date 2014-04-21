@@ -1,0 +1,30 @@
+nav{
+    text-align: center;
+    background-color: tomato;
+    width: 100%;
+    min-height: 75px;
+    padding-top: 25px;
+
+}
+h1{
+    font-size: 22px;
+}
+
+
+
+.loop1 .loop2 {
+    background-color:;
+    width: 100%;
+    min-height: 200px;
+    padding: 15px;
+}
+div{
+    background-color: red;
+    width: 75%;
+    min-height: 200px;
+
+}
+
+
+
+
